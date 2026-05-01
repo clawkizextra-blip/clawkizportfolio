@@ -1,0 +1,17 @@
+{
+  "videos": [
+    "https://youtu.be/I4kX-9j7SNU",
+    "https://youtu.be/OBngMzoTyHI",
+    "https://www.youtube.com/embed/VIDEO_ID_3"
+  ],
+  "thumbnails": [
+    "thumbnails/thumbnail-1.png",
+    "thumbnails/thumbnail-2.png",
+    "thumbnails/thumbnail-3.png",
+    "thumbnails/thumbnail-4.png",
+    "thumbnails/thumbnail-5.png",
+    "thumbnails/thumbnail-6.png",
+    "thumbnails/thumbnail-7.png",
+    "thumbnails/thumbnail-8.png"
+  ]
+}
