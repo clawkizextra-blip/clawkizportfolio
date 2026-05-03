@@ -1,8 +1,20 @@
 {
   "videos": [
-    "https://www.youtube.com/embed/I4kX-9j7SNU",
-    "https://www.youtube.com/embed/OBngMzoTyHI",
-    "https://www.youtube.com/embed/DK_IQnoItKY"
+    {
+      "url": "https://www.youtube.com/embed/I4kX-9j7SNU",
+      "title": "Video 1",
+      "description": "Short-form content"
+    },
+    {
+      "url": "https://www.youtube.com/embed/OBngMzoTyHI",
+      "title": "Video 2",
+      "description": "Cinematic montage"
+    },
+    {
+      "url": "https://www.youtube.com/embed/DK_IQnoItKY",
+      "title": "Video 3",
+      "description": "Brand promo reel"
+    }
   ],
   "thumbnails": [
     "thumbnails/thumbnail-1.png",
