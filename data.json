@@ -3,17 +3,27 @@
     {
       "url": "https://www.youtube.com/embed/I4kX-9j7SNU",
       "title": "Video 1",
-      "description": ""
+      "description": "Minecraft short"
     },
     {
       "url": "https://www.youtube.com/embed/OBngMzoTyHI",
       "title": "Video 2",
-      "description": ""
+      "description": "Minecraft short 2 "
     },
     {
-      "url": "https://www.youtube.com/embed/DK_IQnoItKY",
-      "title": "Video 3",
-      "description": ""
+      "url": "https://www.youtube.com/embed/N0SZcvLusWk",
+      "title": "Raj Shamani Recreation ",
+      "description": "Video description"
+    },
+    {
+      "url": "https://www.youtube.com/embed/DcPjP9_GU-4",
+      "title": "Interview Style short",
+      "description": "Video description"
+    },
+    {
+      "url": "https://www.youtube.com/embed/8bIk9TGLDeU",
+      "title": "Podcast Clip",
+      "description": "Video description"
     }
   ],
   "thumbnails": [
